@@ -1,10 +1,7 @@
 <img src="https://images.unsplash.com/photo-1516110833967-0b5716ca1387?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80">
+
 ### Hi there, I am Oguzhan, currently studying in computer engineering 👋
 
-<!--
-**oguuzhansahin/oguuzhansahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Gittigidiyor.com as an intern
 - 🌱 I’m currently learning AutoML, PyTorch
@@ -14,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
