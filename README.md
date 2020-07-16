@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1516110833967-0b5716ca1387?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80">
+<img src="https://tavvy.com/article/wp-content/uploads/2019/12/Artificial-Intelligence.jpg">
 
 ### Hi there, I am Oguzhan, currently studying in computer engineering 👋
 
