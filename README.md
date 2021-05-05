@@ -3,10 +3,10 @@
 ### Hi there, I am Oguzhan, currently studying in computer engineering 👋
 
 
-- 🔭 I’m currently working on Gittigidiyor.com as an intern
-- 🌱 I’m currently learning AutoML, PyTorch
+- 🔭 I’m currently working at newmind.ai as a Junior NLP Engineer
+- 🌱 I’m currently learning Pytorch, Flask, NER
 - 👯 I’m looking to collaborate on Readme Stats
-- 💬 Ask me about Python, Machine Learning
+- 💬 Ask me about Python, Machine Learning, NLP
 - 📫 How to reach me: oguuzhansahiin@gmail.com
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=oguuzhansahin)
