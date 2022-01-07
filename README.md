@@ -3,7 +3,7 @@
 ### Hi there, I am Oguzhan, currently studying in computer engineering 👋
 
 
-- 🔭 I’m currently working at newmind.ai as a Junior NLP Engineer
+- 🔭 I’m currently working at newmind.ai as a Machine Learning Engineer
 - 🌱 I’m currently learning Pytorch, Flask, NER
 - 👯 I’m looking to collaborate on Readme Stats
 - 💬 Ask me about Python, Machine Learning, NLP
