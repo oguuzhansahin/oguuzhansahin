@@ -1,7 +1,6 @@
-<img src="https://tavvy.com/article/wp-content/uploads/2019/12/Artificial-Intelligence.jpg">
+<img src="https://miro.medium.com/max/1050/1*eH8QZVZtfdquP5ZSkm-xZA.png">
 
 ### Hi there, I am Oguzhan 👋
-
 
 - 🔭 I’m currently working at AREAL.ai as a NLP Engineer
 - 🌱 I’m currently learning Pytorch, Flask, NER
