@@ -1,9 +1,9 @@
 <img src="https://tavvy.com/article/wp-content/uploads/2019/12/Artificial-Intelligence.jpg">
 
-### Hi there, I am Oguzhan, currently studying in computer engineering 👋
+### Hi there, I am Oguzhan 👋
 
 
-- 🔭 I’m currently working at newmind.ai as a Machine Learning Engineer
+- 🔭 I’m currently working at AREAL.ai as a NLP Engineer
 - 🌱 I’m currently learning Pytorch, Flask, NER
 - 👯 I’m looking to collaborate on Readme Stats
 - 💬 Ask me about Python, Machine Learning, NLP
